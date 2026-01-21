@@ -29,7 +29,7 @@ const double EPS = 1e-9;
 void print_board(vii& board){
     f(i,0,9){
         if(i%3==0 && i!=0){
-            cout << "--------------------\n";
+            cout << "----------------------------\n";
         }
 
         f(j,0,9){
